@@ -1,7 +1,3 @@
-Here's a suggested `README.md` document for your React and TypeScript project using the SpeechRecognition API.
-
----
-
 # Speech Recognition App
 
 This project is a simple speech-to-text application built with React and TypeScript using the Web Speech API. It leverages the SpeechRecognition interface to capture and transcribe spoken words in real-time. 
