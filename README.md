@@ -59,7 +59,7 @@ Follow these steps to set up and run the project locally:
 ├── public
 ├── src
 │   ├── components
-│   │   └── SpeechRecognitionHook.tsx   # Custom hook for speech recognition
+│   │   └── Main.tsx                    # Custom hook for speech recognition
 │   ├── App.tsx                         # Main App component
 │   ├── index.tsx                       # Entry point for the React app
 │   ├── styles                          # CSS and styling files
